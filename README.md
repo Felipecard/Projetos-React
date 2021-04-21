@@ -1,2 +1,2 @@
 # Projetos-React
-Projetos desenvolvidos com React
+Projetos desenvolvidos com React.
